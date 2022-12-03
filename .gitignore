@@ -6,5 +6,3 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
-yarn.lock
-_config.landscape.yml
