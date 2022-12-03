@@ -6,4 +6,8 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+<<<<<<< HEAD
 yarn.lock
+=======
+yarn.lock
+>>>>>>> 8895fd835c7dcf2913ab3a6942ecfb67ef97b3e8
